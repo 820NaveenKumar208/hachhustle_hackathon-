@@ -1,4 +1,4 @@
-# MIND GUAD - AI
+# MINDGUAD - AI
 
 ### AI-Driven Financial Risk Intelligence & Protection System
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Mind Guard AI is an intelligent financial protection system designed to transform how individuals and businesses manage their finances. Unlike traditional financial tools that merely track transactions, FortiFi AI acts as a **proactive financial guardian** that analyzes user behavior, detects potential risks, and provides real-time decision guidance.
+MindGuard AI is an intelligent financial protection system designed to transform how individuals and businesses manage their finances. Unlike traditional financial tools that merely track transactions, FortiFi AI acts as a **proactive financial guardian** that analyzes user behavior, detects potential risks, and provides real-time decision guidance.
 
 By combining explainable risk scoring, conversational insights, and interactive simulations, the system empowers users to **prevent financial mistakes before they occur**, creating a personalized “economic fortress” around their finances.
 
@@ -29,7 +29,7 @@ This leads to:
 
 ## Solution
 
-Mind Guard AI introduces a **proactive financial intelligence layer** that:
+MindGuard AI introduces a **proactive financial intelligence layer** that:
 
 * Analyzes spending behavior in real-time
 * Detects financial risks before they occur
