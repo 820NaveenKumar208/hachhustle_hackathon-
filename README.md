@@ -115,6 +115,7 @@ Mind Guard AI introduces a **proactive financial intelligence layer** that:
 ---
 
 ## System Architecture
+<img width="1597" height="659" alt="image" src="https://github.com/user-attachments/assets/2587a646-dc97-41e5-add2-3619728e8c08" />
 
 User Input → Frontend → Backend API → Risk Engine → Decision Logic → Response → UI Display
 
